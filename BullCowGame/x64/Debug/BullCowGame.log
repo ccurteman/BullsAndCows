@@ -1,0 +1,6 @@
+﻿  FBullCowGame.cpp
+c:\users\gc\desktop\bullcowgame\bullcowgame\fbullcowgame.cpp(10): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gc\desktop\bullcowgame\bullcowgame\fbullcowgame.cpp(22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gc\desktop\bullcowgame\bullcowgame\fbullcowgame.cpp(146): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gc\desktop\bullcowgame\bullcowgame\fbullcowgame.cpp(57): warning C4715: 'FBullCowGame::CheckWordValidity': not all control paths return a value
+  BullCowGame.vcxproj -> C:\Users\GC\Desktop\BullCowGame\x64\Debug\BullCowGame.exe
